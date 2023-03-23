@@ -19,6 +19,7 @@ public static String inverteix (String cadena)
 {
     String resultat="";
     return resultat;
+    
 }
 /**
  *
